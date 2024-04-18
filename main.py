@@ -1,4 +1,5 @@
 from files import GUI
 
-app = GUI.App()
-app.Run()
+if __name__ == "__main__":
+    app = GUI.App()
+    app.Run()
