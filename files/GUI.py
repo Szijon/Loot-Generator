@@ -6,10 +6,6 @@ from PyQt6.QtWidgets import *
 
 from files import ItemLib, ItemManager
 
-#TODO
-#Change Font Size of Item Name
-#FIX IT ALL
-
 
 class App():
     def __init__(self):
